@@ -1,26 +1,22 @@
 # main links
 main:
-  - title: "About"
-    url: /about
-  - title: "Documentation"
-    url: /docs
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Rationale"
+    url: /rationale
+  - title: "People"
+    url: /people
+
 
 
 pages:
-  - title: "Process Awareness Web App"
-    url: /process-awareness-web-app
-  - title: "About"
-    url: /about
-  - title: "License"
-    url: /license
+  - title: "Rationale"
+    url: /Rationale
+  - title: "Fundamentals"
+    url: /fundamentals
+  - title: "People"
+    url: /people
+  - title: "Research"
+    url: /research
+
 
 
 

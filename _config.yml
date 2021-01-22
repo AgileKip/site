@@ -20,14 +20,14 @@ title                    : "AgileKIP"
 title_separator          : "-"
 subtitle                 : 
 name                     : "AgileKIP Team"
-description              : "A passionate team that invetigates many aspects related to KIP."
+description              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #/
 repository               : agilekip/site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "AgileKIP Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A team of researchers and developers that aim at investigating KIP."
-  location         : "Waterloo-CA / Rio de de Janeiro-RJ "
+  bio              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
+  location         : "Waterloo-CA / Rio de de Janeiro-BR "
   email            :
   links:
     - label: "Email"
@@ -137,22 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/toacyoliveira"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/utelemaco/generator-pa-jhipster
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/toacy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/toacyol"
 
 
 # Reading Files
@@ -279,7 +270,7 @@ compress_html:
     envs: development
 
 collections:
-  docs:
+  people:
     output: true
     permalink: /:collection/:path/
 
