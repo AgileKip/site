@@ -1,13 +1,12 @@
 ---
-layout: collection
-classes: wide
+layout: single
 permalink: /fundamentals
-title: "Fundamentals"
-excerpt: "How did we get here."
-collection: people
-entries_layout: grid
-last_modified_at: 2019-12-03T15:46:43-04:00
-toc: false
+title: "Pundamentals"
+excerpt: "Our pubs so far..."
+last_modified_at: 2021-01-20
+toc: true
+sidebar:
+  nav: "docs"
 ---
 
 WIP

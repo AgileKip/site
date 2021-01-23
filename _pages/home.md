@@ -2,8 +2,8 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#577104"
   overlay_image: /assets/images/back_logo.jpg
+  overlay_filter: rgba(0, 0, 255, 0.5)
 excerpt:
   A Research and Development Agenda for Agile and Knowledge Intensive Processes
 
@@ -16,18 +16,18 @@ feature_row:
     url: "/rationale"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - _image_path: /assets/images/mm-responsive-feature.png
-    alt: "fundamentals"
-    title: "Fundamentals"
-    excerpt: "Agile, Processes and KIP: What are the basics of what we do?"
-    url: "/fundamentals"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - _image_path: /assets/images/mm-free-feature.png
     alt: "People"
     title: "People"
     excerpt: "The smart people behind the agenda."
     url: "/people"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - _image_path: /assets/images/mm-responsive-feature.png
+    alt: "kip"
+    title: "Knowledge Intensive Processes"
+    excerpt: "KIP: What are the basics of what we do?"
+    url: "/kip"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

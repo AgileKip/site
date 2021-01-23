@@ -1,7 +1,7 @@
 ---
 title: "License"
 permalink: /license
-excerpt: "License for PA JHipster."
+excerpt: ""
 last_modified_at: 2019-12-04T10:00:00-05:00
 ---
 

@@ -5,34 +5,31 @@ main:
   - title: "People"
     url: /people
 
-
-
 pages:
   - title: "Rationale"
-    url: /Rationale
+    url: /rationale
   - title: "Fundamentals"
     url: /fundamentals
-  - title: "People"
-    url: /people
   - title: "Research"
     url: /research
+  - title: "People"
+    url: /people
 
 
-
-
-  # documentation links
+# documentation links
 docs:
-  - title: Getting Started
+  - title: "Rationale"
+    url: /rationale
+  - title: "Fundamentals"
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide
-      - title: "Web App Architecture"
-        url: /docs/web-app-architecture
-  - title: Examples
-    children:
-      - title: "Blueprint Example"
-        url: /docs/blueprint-example
-      - title: "Service Tasks"
-        url: /docs/service-tasks
-      - title: "Gateways"
-        url: /docs/gateways
+      - title: "Agility"
+        url: /agility/
+      - title: "Processes Models"
+        url: /procmodels/
+      - title: "KIP"
+        url: /kip/  
+  - title: "Research"
+    url: /research
+  - title: "People"
+    url: /people
+

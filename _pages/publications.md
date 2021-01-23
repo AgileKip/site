@@ -1,11 +1,12 @@
 ---
 layout: single
-classes: wide
 permalink: /publications
 title: "Publications"
-excerpt: "Ous pubs so far..."
-last_modified_at: 2019-12-03T15:46:43-04:00
-toc: false
+excerpt: "Our pubs so far..."
+last_modified_at: 2021-01-20
+toc: true
+sidebar:
+  nav: "docs"
 ---
 
 WIP
