@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /publications
-title: "Journal Publications"
+title: "Recent Publications"
 excerpt: "Our pubs so far..."
 last_modified_at: 2021-01-20
 toc: true
