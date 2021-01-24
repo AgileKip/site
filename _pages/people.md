@@ -17,9 +17,12 @@ sidebar:
    <b>{{ person.name }}</b>
    <a href="https://www.linkedin.com/in/{{ person.linkedin }}">
     <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>
-   </a>
+  </a> <p />
+    {{ person.affiliation }}
+
   </td>
-  </tr>
+</tr>
+
 {% endfor %}
 
 </table>

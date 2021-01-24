@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /rationale
+permalink: /about
 title: "Rationale"
 excerpt: "How did we get here."
 last_modified_at: 2021-01-20
@@ -19,9 +19,9 @@ There exist several initiatives to help businesses and organizations coping with
 [Nexus](https://www.scrum.org/resources/nexus-guide) that help setting up an agile framework on how organizations should work; there are the Business Process Management discipline and the acclaimed Process Science that aim at promoting a set of standards, procedures, techniques and supporting computational infrastructure to streamlining business operations; there are Research Groups such as
 [PADS](https://www.pads.rwth-aachen.de/cms/~pnbx/PADS/lidx/1/)
 [Tartu](http://kodu.ut.ee/~dumas/)
-[Melburne](https://cis.unimelb.edu.au/information-systems/bpm/) and
+[Melbourne](https://cis.unimelb.edu.au/information-systems/bpm/) and
 [HPI](https://bpt.hpi.uni-potsdam.de/people/mathias-weske), pushing process theory and practice to new levels and lastly but not least important; there are tools vendors including
-[Apian](https://www.appian.com/)
+[Appian](https://www.appian.com/)
 [Apromore](https://apromore.org/)
 [Bonita](https://www.bonitasoft.com/)
 [Camunda](https://camunda.com/) and
@@ -41,7 +41,7 @@ We believe we can also contribute to help businesses and organizations coping wi
 [Tacin](https://ieeexplore.ieee.org/document/9279201)
 [Critical Path](http://ksiresearchorg.ipage.com/seke/seke19paper/seke19paper_4.pdf) and
 [RBAC](https://link.springer.com/article/10.1007%2Fs10207-016-0314-4)Cheers abd. In a nutshell, we understand Agile Software Development Processes as extremely flexible
-[Business Processes](https://link.springer.com/book/10.1007/978-3-662-56509-4) that are heavily dependent on individuals and have a distinct approach to mapping Process Models to Process Instances (executions). As s result, we are confident some techniques we have developed for Agile Software Development Processes such as assessing agility
+[Business Processes](https://link.springer.com/book/10.1007/978-3-662-56509-4) that are heavily dependent on individuals and have a distinct approach to mapping Process Models to Process Instances (executions). As a result, we are confident some techniques we have developed for Agile Software Development Processes such as assessing agility
 [AgileQube](https://ieeexplore.ieee.org/document/9072369), discovering tasks experts and similar tasks
 [Tacin](https://ieeexplore.ieee.org/document/9279201) and supporting model-to-instance reconciliation
 [SDP-Reconciliation](https://dl.acm.org/doi/10.1145/2695664.2696046), may likewise improve flexible Business Processes.
@@ -57,7 +57,7 @@ This Research & Development Agenda intends to contribute to the Business Process
 [AgileQube](https://ieeexplore.ieee.org/document/9072369)
 [BPMNt](https://www.sciencedirect.com/science/article/abs/pii/S0950584914002031?via%3Dihub), execute
 [SDP-Reconciliation](https://dl.acm.org/doi/10.1145/2695664.2696046)
-[Procces Awate ChatBots](https://github.com/luis-f-lins/process-aware-conversational-agent) and assess
+[Process Awate ChatBots](https://github.com/luis-f-lins/process-aware-conversational-agent) and assess
 [AgileQube](https://ieeexplore.ieee.org/document/9072369)
 [Tacin](https://ieeexplore.ieee.org/document/9279201)
 [Critical Path](http://ksiresearchorg.ipage.com/seke/seke19paper/seke19paper_4.pdf) processes should allow defining processes that are flexible to accommodate changes, responsive to help process participants and traceable to facilitate accountability.

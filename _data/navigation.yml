@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Rationale"
-    url: /rationale
+  - title: "About"
+    url: /about
   - title: "People"
     url: /people
 
 pages:
-  - title: "Rationale"
-    url: /rationale
+  - title: "About"
+    url: /about
   - title: "Fundamentals"
     url: /fundamentals
   - title: "Research"
@@ -18,18 +18,22 @@ pages:
 
 # documentation links
 docs:
-  - title: "Rationale"
-    url: /rationale
+  - title: "About"
+    url: /about
   - title: "Fundamentals"
     children:
       - title: "Agility"
-        url: /agility/
+        url: /agility
       - title: "Processes Models"
-        url: /procmodels/
+        url: /procmodels
       - title: "KIP"
-        url: /kip/  
+        url: /kip  
   - title: "Research"
-    url: /research
+    children:
+      - title: "The Lifecycle"
+        url: /lifecycle
+      - title: "Publications"
+        url: /publications
   - title: "People"
     url: /people
 
