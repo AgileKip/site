@@ -10,10 +10,10 @@ excerpt:
   <!-- <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small> -->
 feature_row:
   - _image_path: /assets/images/mm-customizable-feature.png
-    alt: "rationale"
-    title: "Rationale"
+    alt: "about"
+    title: "About"
     excerpt: "After 10+ years, how did we get here?"
-    url: "/rationale"
+    url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - _image_path: /assets/images/mm-free-feature.png
