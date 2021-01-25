@@ -16,7 +16,8 @@ Nevertheless, businesses need to be accountable to comply with government regula
 
 There exist several initiatives to help businesses and organizations coping with the competing forces of predictability and flexibility found in modern business processes. There are methods such as
 [Safe](https://www.scaledagileframework.com/) and
-[Nexus](https://www.scrum.org/resources/nexus-guide) that help setting up an agile framework on how organizations should work; there are the Business Process Management discipline and the acclaimed Process Science that aim at promoting a set of standards, procedures, techniques and supporting computational infrastructure to streamlining business operations; there are Research Groups such as
+[Nexus](https://www.scrum.org/resources/nexus-guide) that help setting up an agile framework on how organizations should work; there are the Business Process Management discipline and the acclaimed
+[Process Science](https://process-science.net) that aim at promoting a set of standards, procedures, techniques and supporting computational infrastructure to streamlining business operations; there are Research Groups such as
 [PADS](https://www.pads.rwth-aachen.de/cms/~pnbx/PADS/lidx/1/)
 [Tartu](http://kodu.ut.ee/~dumas/)
 [Melbourne](https://cis.unimelb.edu.au/information-systems/bpm/) and
