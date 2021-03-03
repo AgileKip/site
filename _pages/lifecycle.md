@@ -94,7 +94,7 @@ In our view, the _Instantiation Transition_ is also quite complex when consideri
 
 ## Execute
 
-The _Execute Transition_ indicates the act of handling a process instance element from the _Instances Stage and creating one or more vertices and edges in the knowledge graph. The transition may be triggered by an individual when  
+The _Execute Transition_ indicates the act of handling a process instance element from the _Instances Stage_ and creating one or more vertices and edges in the knowledge graph. The transition may be triggered by an individual when  
 handling a manual or human task, or by a system when handling a service task. Executing may also indicate the occurrence of events, messages, signals, creating/deleting objects, etc. In the ideal world, executing a process creates a rich _Knowledge Graph_ containing the data and metadata used to move from the process’ start event to one end event. Also, the timestamps are recorded, the id's of individuals are collected and values specified for attributes in the process meta-model are stored.
 
 Typically, the _Execute Transition_ is automated by an underlying infrastructure containing either a Workflow Management System, a Business Process Management System or a Process-Aware Information System, Database Systems, Messaging Systems, etc.
@@ -107,7 +107,7 @@ Improvement can be done manually or automatically. Manual improvement typically 
 
 ## Harmonize
 
-The _Harmonize Operation_ attempts to compare the current process execution to the associated process model in order to uncover non-compliances. In an Agile and Knowledge-Intensive scenario, a process instance aims at supporting individuals and organizations fulfilling goals, but not following a protocol. Sometimes, the process execution may become too fluid and then unexpectedly diverge from the ideal process model. For example, tasks may be left unattended, the prescribed task sequencing may be disrupted, data objects may be not used, etc.
+The _Harmonize Operation_ compares the current process execution to the associated process model in order to uncover possible non-compliances. In an Agile and Knowledge-Intensive scenario, a process instance aims at supporting individuals and organizations fulfilling goals, but not following a protocol. Sometimes, the process execution may become too fluid and then unexpectedly diverge from the ideal process model. For example, tasks may be left unattended, the prescribed task sequencing may be disrupted, data objects may be not used, etc.
 
 Assessing the process instance periodically to promote harmonization during process execution may avoid unexpected process behaviors. For example, one may try to execute the _Order Parts_ found in the _Generic Procurement_ process without checking if the _Quotes are Fine_. By constantly assessing the process status, this error-prone behavior can be avoided. It is worth mentioning processes that are completely structured and controlled by an execution infrastructure do not have room to deviate, and therefore they do not require harmonization. On the other hand, Agile and Knowledge-Intensive processes are unstructured and harmonization is required to raise possible deviations from the intended model.
 
