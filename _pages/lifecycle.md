@@ -28,11 +28,9 @@ The _Concepts Stage_ contains the abstractions and constructs that are used to d
 
 ## Models
 
-The _Models Stage_ attempts to standardize how concepts are represented by means of a structure. Elements in this stage follow a rigid specification such as the BPMN and UML metamodels in which model elements and their relationships are meticulously defined. It is also possible that elements in the _Models Stage_ use a semi-structured representation to accommodate some level of flexibility. Being rigid or not, models define some key elements that must be present in a model instance to indicate that instance is well-formed (complies with the model).
-For example, a "model" used to specify User Stories may indicate a _User Story_ must have a _name_, a _description_ and a _flow_.
+The _Models Stage_ attempts to standardize how concepts are represented by means of a structure. Elements in this stage follow a rigid specification such as the BPMN and UML metamodels in which model elements and their relationships are meticulously defined. It is also possible that elements in the _Models Stage_ use a semi-structured representation to accommodate some level of flexibility. Being rigid or not, models define some key elements that must be present in a model instance to indicate that instance is well-formed (complies with the model). For example, a "model" used to specify User Stories may indicate a _User Story_ must have a _name_, a _description_ and a _flow_.
 
-Standardized models such as BPMN and UML are unique, meaning their concepts were defined and modeled to be used without modifications (although conservative extensions are allowed).
-On the other hand, non standardized models can be adapted to meet someone needs. For example, a User Story model may require not only a _name_, a _description_ and a _flow_ but also _priority_, _user type_, etc. Both User Story models can coexist in the Models Stage.
+Standardized models such as BPMN and UML are unique, meaning their concepts were defined and modeled to be used without modifications (although conservative extensions are allowed). On the other hand, non standardized models can be adapted to meet someone needs. For example, a User Story model may require not only a _name_, a _description_ and a _flow_ but also _priority_, _user type_, etc. Both User Story models can coexist in the Models Stage.
 
 Models can be used to define models as in the BPMN, UML and User Story cases, but models can also be used to generalize how things work. For example, a BPMN model can be used to generalize the activities, artifacts and flows found in Procurement Processes (see Fig. 2). In this scenario, any company willing to use this Generic Procurement Process can do so as blueprint.
 
@@ -94,8 +92,7 @@ In our view, the _Instantiation Transition_ is also quite complex when consideri
 
 ## Execute
 
-The _Execute Transition_ indicates the act of handling a process instance element from the _Instances Stage_ and creating one or more vertices and edges in the knowledge graph. The transition may be triggered by an individual when  
-handling a manual or human task, or by a system when handling a service task. Executing may also indicate the occurrence of events, messages, signals, creating/deleting objects, etc. In the ideal world, executing a process creates a rich _Knowledge Graph_ containing the data and metadata used to move from the process’ start event to one end event. Also, the timestamps are recorded, the id's of individuals are collected and values specified for attributes in the process meta-model are stored.
+The _Execute Transition_ indicates the act of handling a process instance element from the _Instances Stage_ and creating one or more vertices and edges in the knowledge graph. The transition may be triggered by an individual when handling a manual or human task, or by a system when handling a service task. Executing may also indicate the occurrence of events, messages, signals, creating/deleting objects, etc. In the ideal world, executing a process creates a rich _Knowledge Graph_ containing the data and metadata used to move from the process’ start event to one end event. Also, the timestamps are recorded, the id's of individuals are collected and values specified for attributes in the process meta-model are stored.
 
 Typically, the _Execute Transition_ is automated by an underlying infrastructure containing either a Workflow Management System, a Business Process Management System or a Process-Aware Information System, Database Systems, Messaging Systems, etc.
 
