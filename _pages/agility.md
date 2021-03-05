@@ -65,6 +65,6 @@ Manifesto for Agile Development. These methods include, but are not limited
 to: XP , Scrum, Crystal Family, Feature Driven Development (FDD), Dynamic Systems Development Method, Adaptive Software Development, and OpenUp.
 According to the recent 14th State of Agile, ["Scrum and related variants are"](https://stateofagile.com/#ufh-i-615706098-14th-annual-state-of-agile-report/7027494) the most popular of these agile methodologies.
 
-# Agility is elsewhere
+# Agility everywhere
 
 It turns out the agility movement spread to other industries than just software development and nowadays being _Agile_ is a culture promoting and delivering good results at scale. In fact scaling agile initiatives such as [SAFe](https://www.scaledagileframework.com/), advocate the whole organization should embrace agile and lean practices.
