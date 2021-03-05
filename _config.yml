@@ -20,7 +20,7 @@ title                    : "AgileKIP"
 title_separator          : "-"
 subtitle                 : 
 name                     : "AgileKIP Team"
-description              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
+description              : "A passionate team to investigate  aspects related to Agile and Knowledge Intensive Processes."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #/
 repository               : agilekip/site
