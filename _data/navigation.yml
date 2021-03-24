@@ -34,6 +34,37 @@ docs:
         url: /lifecycle
       - title: "Publications"
         url: /publications
+  - title: "Projects"
+    children:
+      - title: "Catalogue Agile Smells"
+        url: /catalogue-agile-smells
   - title: "People"
     url: /people
+
+
+catalogue-agile-smells:
+  - title: "Catalogue of Agile Smells"
+    url: /catalogue-agile-smells
+  - title: "Agile Smells"
+    children:
+      - title: "AS01 - Lower Priority Tasks..."
+        url: /catalogue-agile-smells/as01
+      - title: "AS02 - Absence of Frequent Deliveries"
+        url: /catalogue-agile-smells/as02
+      - title: "AS03 - Iteration Without a Deliverable"
+        url: /catalogue-agile-smells/as03
+      - title: "AS04 - Goals Not Defined or..."
+        url: /catalogue-agile-smells/as04
+      - title: "AS05 - Iteration Without a Planning"
+        url: /catalogue-agile-smells/as05
+      - title: "AS06 - Complex Tasks"
+        url: /catalogue-agile-smells/as06
+      - title: "AS07 - Iteration Without a Retros.."
+        url: /catalogue-agile-smells/as07
+      - title: "AS08 - Absence of Timeboxing"
+        url: /catalogue-agile-smells/as08
+      - title: "AS09 - Iteration Started without..."
+        url: /catalogue-agile-smells/as09
+      - title: "AS10 - Iteration Without a Review"
+        url: /catalogue-agile-smells/as10
 
