@@ -14,16 +14,16 @@ sidebar:
 
 The top 10 agile smells are:
 
-* [AS01 - Lower Priority Tasks Executed First](/catalogue-agile-smells/as01)
-* [AS02 - Absence of Frequent Deliveries](/catalogue-agile-smells/as02)
-* [AS03 - Iteration Without a Deliverable](/catalogue-agile-smells/as03)
-* [AS04 - Goals Not Defined or Poorly Defined](/catalogue-agile-smells/as04)
-* [AS05 - Iteration Without a Planning](/catalogue-agile-smells/as05)
-* [AS06 - Complex Tasks](/catalogue-agile-smells/as06)
-* [AS07 - Iteration Without an Iteration Retrospective](/catalogue-agile-smells/as07)
-* [AS08 - Absence of Timeboxing](/catalogue-agile-smells/as08)
-* [AS09 - Iteration Started without an Estimated Effort](/catalogue-agile-smells/as09)
-* [AS10 - Iteration Without a Review](/catalogue-agile-smells/as10)
+* [AS01 - Lower Priority Tasks Executed First](/catalogue-agile-smells/AS01)
+* [AS02 - Absence of Frequent Deliveries](/catalogue-agile-smells/AS02)
+* [AS03 - Iteration Without a Deliverable](/catalogue-agile-smells/AS03)
+* [AS04 - Goals Not Defined or Poorly Defined](/catalogue-agile-smells/AS04)
+* [AS05 - Iteration Without a Planning](/catalogue-agile-smells/AS05)
+* [AS06 - Complex Tasks](/catalogue-agile-smells/AS06)
+* [AS07 - Iteration Without an Iteration Retrospective](/catalogue-agile-smells/AS07)
+* [AS08 - Absence of Timeboxing](/catalogue-agile-smells/AS08)
+* [AS09 - Iteration Started without an Estimated Effort](/catalogue-agile-smells/AS09)
+* [AS10 - Iteration Without a Review](/catalogue-agile-smells/AS10)
 
 # About the catalogue
 
