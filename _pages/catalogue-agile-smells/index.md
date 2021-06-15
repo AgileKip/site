@@ -10,7 +10,7 @@ sidebar:
   nav: "docs"
 ---
 
-## About the catalogue
+_by [Ulisses Telemaco](https://www.linkedin.com/in/utelemaco/)_
 
 The Manifesto for Agile Development has already inspired many software development methods such as Scrum, XP, and Crystal Reports.
 However, being “agile” is not trivial and only a few companies are capable of mastering so-called agile practices.
