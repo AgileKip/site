@@ -7,7 +7,7 @@ last_modified_at: 2019-12-04T10:00:00-05:00
 
 The MIT License (MIT)
 
-Copyright (c) 2013-{{ site.time | date: '%Y' }} Untacit Team
+Copyright (c) 2013-{{ site.time | date: '%Y' }} Agilekip Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
