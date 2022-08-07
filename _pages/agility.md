@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /post1
+permalink: /agility
 title: ""
 excerpt: "A brief note on agile/agility concepts."
 last_modified_at: 2021-03-05

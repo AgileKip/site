@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kip4You Documentation"
+title                    : "AgileKIP"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Kip4You Team"
-description              : "Building wats to Automate Business Processes"
+name                     : "AgileKIP Team"
+description              : "A passionate team to investigate  aspects related to Agile and Knowledge Intensive Processes."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #/
-repository               : kip4you/docs-site
+repository               : agilekip/site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #/assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kip4you Team"
+  name             : "AgileKIP Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Building ways to Automate Business Processes"
+  bio              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
   location         : "Waterloo-CA / Rio de de Janeiro-BR "
   email            :
   links:
@@ -137,10 +137,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kip4you"
+      url: "https://twitter.com/agilekip"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kip4you"
+      url: "https://github.com/agilekip"
 
 
 
