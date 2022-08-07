@@ -2,18 +2,18 @@
 main:
   - title: "About"
     url: /about
-  - title: "People"
-    url: /people
+  # - title: "People"
+  #   url: /people
 
-pages:
-  - title: "About"
-    url: /about
-  - title: "Fundamentals"
-    url: /fundamentals
-  - title: "Research"
-    url: /research
-  - title: "People"
-    url: /people
+# pages:
+#   - title: "About"
+#     url: /about
+#   - title: "Fundamentals"
+#     url: /fundamentals
+#   - title: "Research"
+#     url: /research
+#   - title: "People"
+#     url: /people
 
 
 # documentation links
@@ -22,27 +22,8 @@ docs:
     url: /about
   - title: "Fundamentals"
     children:
-      - title: "Agility"
-        url: /agility
-      - title: "Processes Models"
-        url: /procmodels
-      - title: "KIP"
-        url: /kip  
-  - title: "Research"
-    children:
-      - title: "The Lifecycle"
-        url: /lifecycle
-      - title: "Publications"
-        url: /publications
-  - title: "Projects"
-    children:
-      - title: "Catalogue of Agile Smells"
-        url: /catalogue-agile-smells
-      - title: "PAIS Scaffolding"
-        url: /pais-scaffolding
-      - title: "Chatbot & Processes"
-        url: /chatbot-process        
-  - title: "People"
-    url: /people
+      - title: "Post1"
+        url: /post1      
+
 
 
